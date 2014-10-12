@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="116.99999"
+   height="100"
+   viewBox="0 0 33.02 28.222222"
+   id="svg2">
+  <desc
+     id="desc4">
+    <referenceFile
+       id="referenceFile6">canbus_shield-v12_schematic.svg</referenceFile>
+  </desc>
+  <metadata
+     id="metadata196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs194" />
+  <rect
+     width="22.5425"
+     height="22.067867"
+     x="5.23875"
+     y="3.2631936"
+     id="rect9"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.21540886;stroke-linecap:round" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     gorn="0.1.6"
+     id="connector95pin"
+     class="pin"
+     x2="32.8965"
+     x1="27.8165"
+     y2="10.724445"
+     y1="10.724445" />
+  <text
+     x="27.322599"
+     y="10.971344"
+     id="text18"
+     style="font-size:1.23471999px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">SCK</text>
+  <rect
+     width="0.246944"
+     height="0.246944"
+     x="32.8965"
+     y="10.600945"
+     id="connector95terminal"
+     style="fill:none;stroke:none" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     gorn="0.1.9"
+     id="connector94pin"
+     class="pin"
+     x2="32.8965"
+     x1="27.8165"
+     y2="13.264447"
+     y1="13.264447" />
+  <text
+     x="27.322599"
+     y="13.511347"
+     id="text22"
+     style="font-size:1.23471999px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">MISO</text>
+  <rect
+     width="0.246944"
+     height="0.246944"
+     x="32.8965"
+     y="13.140948"
+     id="connector94terminal"
+     style="fill:none;stroke:none" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     gorn="0.1.12"
+     id="connector93pin"
+     class="pin"
+     x2="32.8965"
+     x1="27.8165"
+     y2="15.804448"
+     y1="15.804448" />
+  <text
+     x="27.322599"
+     y="16.051346"
+     id="text26"
+     style="font-size:1.23471999px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">MOSI</text>
+  <rect
+     width="0.246944"
+     height="0.246944"
+     x="32.8965"
+     y="15.680947"
+     id="connector93terminal"
+     style="fill:none;stroke:none" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     gorn="0.1.15"
+     id="connector92pin"
+     class="pin"
+     x2="32.8965"
+     x1="27.8165"
+     y2="18.344448"
+     y1="18.344448" />
+  <text
+     x="27.322599"
+     y="18.591349"
+     id="text30"
+     style="font-size:1.23471999px;text-anchor:end;fill:#8c8c8c;stroke:none;font-family:Droid Sans">SS</text>
+  <rect
+     width="0.246944"
+     height="0.246944"
+     x="32.8965"
+     y="18.220949"
+     id="connector92terminal"
+     style="fill:none;stroke:none" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     gorn="0.1.45"
+     id="connector29pin"
+     class="pin"
+     x2="5.2034702"
+     x1="0.123472"
+     y2="10.724443"
+     y1="10.724443" />
+  <text
+     x="5.69736"
+     y="10.971344"
+     id="text70"
+     style="font-size:1.23471999px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">CANH</text>
+  <rect
+     width="0.246944"
+     height="0.246944"
+     x="-0.123472"
+     y="10.600943"
+     id="connector29terminal"
+     style="fill:none;stroke:none" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     gorn="0.1.48"
+     id="connector30pin"
+     class="pin"
+     x2="5.2034702"
+     x1="0.123472"
+     y2="13.264443"
+     y1="13.264443" />
+  <text
+     x="5.69736"
+     y="13.511344"
+     id="text74"
+     style="font-size:1.23471999px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">CANL</text>
+  <rect
+     width="0.246944"
+     height="0.246944"
+     x="-0.123472"
+     y="13.140944"
+     id="connector30terminal"
+     style="fill:none;stroke:none" />
+  <text
+     x="16.668699"
+     y="12.905653"
+     id="label"
+     style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans">SeeedStudio</text>
+  <text
+     x="16.668699"
+     y="14.504952"
+     id="text186"
+     style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans">Can-</text>
+  <text
+     x="16.668699"
+     y="16.104353"
+     id="text188"
+     style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans">Bus</text>
+  <text
+     x="16.668699"
+     y="17.703653"
+     id="text190"
+     style="font-size:1.49931002px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans">Shield</text>
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round"
+     gorn="0.1.45"
+     id="connector29pin-8"
+     class="pin"
+     x2="5.1654472"
+     x1="0.08545021"
+     y2="15.98076"
+     y1="15.98076" />
+  <text
+     x="5.659338"
+     y="16.227661"
+     id="text70-7"
+     style="font-size:1.23471999px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">5V</text>
+  <rect
+     width="0.24694401"
+     height="0.24694401"
+     x="-0.16149421"
+     y="15.85726"
+     id="connector29terminal-1"
+     style="fill:none;stroke:none" />
+  <line
+     style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round"
+     gorn="0.1.48"
+     id="connector30pin-4"
+     class="pin"
+     x2="5.1654472"
+     x1="0.08545021"
+     y2="18.52076"
+     y1="18.52076" />
+  <text
+     x="5.659338"
+     y="18.76766"
+     id="text74-6"
+     style="font-size:1.23471999px;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:Droid Sans">GND</text>
+  <rect
+     width="0.24694401"
+     height="0.24694401"
+     x="-0.16149421"
+     y="18.397261"
+     id="connector30terminal-0"
+     style="fill:none;stroke:none" />
+</svg>
